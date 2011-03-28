@@ -1,0 +1,4 @@
+Here is a GWT version of the Google I/O countdown.
+
+It use the HTML5 canvas element and I plan to add some physics and collision here and there.
+It's far from finished
